@@ -1,5 +1,8 @@
 # Chef Claude 🍳
 
+
+[![Demo](https://github.com/user-attachments/assets/70d45468-b74c-4592-a336-b2e0c31636c0)](https://voluble-pasca-573284.netlify.app/)
+
 > Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ## Description
