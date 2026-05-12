@@ -18,7 +18,7 @@ export async function getRecipeFromMistral(ingredientsArr) {
 
   const response = await client.chatCompletion({
     provider: "sambanova",
-    model: "meta-llama/Llama-3.1-8B-Instruct",
+    model: "meta-llama/Llama-3.3-70B-Instruct",
     messages: [
       { role: "system", content: SYSTEM_PROMPT },
       {
